@@ -362,7 +362,7 @@ class HomeScreen extends StatelessWidget {
             ),
             _buildSocialMediaButton(
               'Instagram',
-              'https://www.instagram.com/fbla_pbl/',
+              'https://www.instagram.com/fbla_national/',
             ),
           ],
         ),
