@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199744419875",
+    "project_id": "fbla-assembly",
+    "storage_bucket": "fbla-assembly.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199744419875:android:81586b3777b365795b5996",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACzDhRzSqXskS_B6lAdNrFYgGKevqfVic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
